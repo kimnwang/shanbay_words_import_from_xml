@@ -1,0 +1,2 @@
+# shanbay_words_import_from_xml
+解析从网易有道词典导出的单词本xml，变成可以在扇贝网批量上传的格式
